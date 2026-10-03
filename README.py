@@ -47,4 +47,4 @@ python main.py
 Python OOP, GUI development, SQL/SQLite CRUD operations, validation, CSV handling, charts and event handling.
 
 ## Author
-Yaswanthi
+Swathi
